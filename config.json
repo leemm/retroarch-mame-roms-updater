@@ -1,0 +1,9 @@
+{
+    "ftp": {
+        "host": "192.168.1.72",
+        "port": 5000
+    },
+    "verbose": false,
+    "iplLocation": "/retroarch/playlists/FBNeo - Arcade Games.lpl",
+    "newRomsRootUrl": "https://archive.org/download/2020_01_06_fbn/roms/arcade.zip/arcade/"
+}
